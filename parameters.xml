@@ -1,0 +1,15 @@
+<root>
+    <databaseConnection>
+        <username>smaster</username>
+        <password>smaster7w</password>
+        <connectionString>jdbc:oracle:thin:@10.254.5.10:1521:BER1</connectionString>
+        <class>oracle.jdbc.driver.OracleDriver</class>
+    </databaseConnection>
+    <inputParameters>
+        <outputEncoding>UTF-8</outputEncoding>
+        <logFile>/Users/anatoliyvazhenin/NetBeansProjects/Law-enforcementAuthoritiesReport/log.txt</logFile>
+        <sqlFile>/Users/anatoliyvazhenin/NetBeansProjects/Law-enforcementAuthoritiesReport/sql.sql</sqlFile>
+        <phoneNumbersFile>/Users/anatoliyvazhenin/NetBeansProjects/Law-enforcementAuthoritiesReport/phones.txt</phoneNumbersFile>
+        <outputFile>/Users/anatoliyvazhenin/NetBeansProjects/Law-enforcementAuthoritiesReport/Result.txt</outputFile>
+    </inputParameters>  
+</root>
